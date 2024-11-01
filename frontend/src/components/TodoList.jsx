@@ -27,7 +27,7 @@ const TodoList = () => {
     })
     return (
         <div className="w-[40%]">
-            <p className="text-heading-h4 text-blue-800 uppercase font-bold text-center my-4">
+            <p className="text-heading-h3 bg-gradient-to-r from-blue-800 via-blue-500 to-cyan-300 text-transparent bg-clip-text uppercase font-bold text-center mb-32">
                 Today's Tasks
             </p>
             { isLoading && (

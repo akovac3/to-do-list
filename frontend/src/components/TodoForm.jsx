@@ -47,6 +47,7 @@ const TodoForm = () => {
                     <input
                         className="flex-1 text-neutral-700 p-8 focus:border focus:border-neutral-400 bg-neutral-200 rounded-8 outline-none"
                         type='text'
+                        placeholder="Add new task"
                         value={ newTodo }
                         onChange={ (e) => setNewTodo(e.target.value) }
                         ref={ (input) => input && input.focus() }
