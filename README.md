@@ -11,12 +11,16 @@ A basic Todo application built with Go and React. The backend API is written in 
 
 ## Live Demo
 
-[View the deployed app on Railway](https://your-deployed-app-link.railway.app)
+[View the deployed app on Railway](https://to-do-list-production-75b3.up.railway.app/)
 
 ## Tech Stack
 
 - **Frontend**: React, JavaScript, HTML, CSS
 - **Backend**: Go, Fiber, MongoDB
 - **Deployment**: Railway
+
+## Screenshots
+
+Here’s a preview of the Todo app in action:
 
 ![Screenshot 2024-11-01 011823](https://github.com/user-attachments/assets/ae6dca02-94c1-4399-a798-6de5a451a0ba)
